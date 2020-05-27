@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const sequelize = new Sequelize('nodedb', 'beerg44', '11AHmo11', {
+const sequelize = new Sequelize('nodedb', 'beerg44', '1234qqqQ', {
     host: 'localhost',
     dialect: 'mariadb',
     define: {
